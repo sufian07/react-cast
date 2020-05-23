@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.RXRPc {
+  animation: _2bs6O 1.4s linear infinite;
+}
+@keyframes _2bs6O {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+.GsHm5 {
+  stroke-dasharray: 187;
+  stroke-dashoffset: 0;
+  transform-origin: center;
+  animation:
+    _3pGIj 1.4s ease-in-out infinite;
+}
+@keyframes _3pGIj {
+ 0% { stroke-dashoffset: 187; }
+ 50% {
+   stroke-dashoffset: 46.75;
+   transform:rotate(135deg);
+ }
+ 100% {
+   stroke-dashoffset: 187;
+   transform:rotate(450deg);
+ }
+}
